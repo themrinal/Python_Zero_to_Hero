@@ -142,11 +142,14 @@ Welcome to the **Python - Zero to Hero** GitHub repository! This is the official
   100. Project 02 - Student Grade Calculator
 
 
-Why This Structure?
-✅ Shorter videos to keep you engaged
-✅ Logical progression from basics toadvanced concepts
-✅ Breaks down complexc topics like OOP & operators
-✅ Great for beginners & intermediate learners
+### Why This Structure?
+ - Shorter videos to keep you engaged
+ - ogical progression from basics toadvanced concepts
+ - Breaks down complexc topics like OOP & operators
+ - Great for beginners & intermediate learners
 
 🔥 Ready to start your Python journey?
-📌 Watch the Playlist Here → [https://youtube.com/playlist?list=PL9II5e5jdKmxCzUAgE_49IDkWxTz113Wq&feature=shared]
+ - Watch the Playlist Here → [https://youtube.com/playlist?list=PL9II5e5jdKmxCzUAgE_49IDkWxTz113Wq&feature=shared]
+
+### 📢 Stay Connected
+ - YouTube : Subscribe Here [https://www.youtube.com/@themrinaldas] 
