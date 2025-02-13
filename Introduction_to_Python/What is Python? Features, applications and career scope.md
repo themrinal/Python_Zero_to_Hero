@@ -1,3 +1,5 @@
+YouTube video lecture link : https://youtu.be/SilOJIAs50Q
+
 ### What is Python?
  - Python is a high-level, interpreted programming language developed by Guido van Rossum and first released in 1991. 
  - It emphasizes code readability and supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
