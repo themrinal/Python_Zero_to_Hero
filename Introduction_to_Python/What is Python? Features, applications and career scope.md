@@ -3,59 +3,59 @@
  - It emphasizes code readability and supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
 ### Python Features
-🔹 Simplicity – Clean and readable code makes Python easy to write and maintain.
-🔹 Extensive Libraries – Built-in libraries like NumPy, Pandas, TensorFlow, and Django support various domains.
-🔹 Portability – Python programs can run on different operating systems without modification.
-🔹 Strong Community Support – Millions of developers contribute to Python’s growth.
-🔹 Integration with Other Languages – Python works well with C, C++, Java, and more.
-🔹 Interpreted Language – Code is executed line by line, making debugging easier.
-🔹 Cross-Platform – Works on Windows, macOS, and Linux without modification.
-🔹 Open-Source – Free to use with a large, active community.
+ - Simplicity : Clean and readable code makes Python easy to write and maintain.
+ - Extensive Libraries : Built-in libraries like NumPy, Pandas, TensorFlow, and Django support various domains.
+ - Portability : Python programs can run on different operating systems without modification.
+ - Strong Community Support : Millions of developers contribute to Python’s growth.
+ - Integration with Other Languages : Python works well with C, C++, Java, and more.
+ - Interpreted Language : Code is executed line by line, making debugging easier.
+ - Cross-Platform : Works on Windows, macOS, and Linux without modification.
+ - Open-Source : Free to use with a large, active community.
 
 
 ### Applications of Python
 Python is used in diverse fields across industries. Some of its major applications include:
-1️⃣ Web Development 
+#### Web Development 
  - Frameworks: Django, Flask, FastAPI
  - Companies: Instagram, Netflix, Reddit
-2️⃣ Data Science & Analytics 
+#### Data Science & Analytics 
  - Libraries: Pandas, NumPy, Matplotlib
  - Used for: Data visualization, predictive modeling
-3️⃣ Machine Learning & AI 
+#### Machine Learning & AI 
  - Libraries: TensorFlow, PyTorch, Scikit-learn
  - Used in: Image recognition, NLP, recommendation systems
-4️⃣ Automation & Scripting 
+#### Automation & Scripting 
  - Tools: Selenium, BeautifulSoup, PyAutoGUI
  - Automates repetitive tasks like web scraping and file handling.
-5️⃣ Game Development 
+#### Game Development 
  - Frameworks: Pygame, Panda3D
  - Used in: 2D and 3D game development
-6️⃣ Cybersecurity & Ethical Hacking 
+#### Cybersecurity & Ethical Hacking 
  -  Tools: Scapy, PyCryptodome
  - Used in: Penetration testing and security analysis
-7️⃣ Internet of Things (IoT) 📡
+#### Internet of Things (IoT) 📡
  - Libraries: MicroPython, Raspberry Pi
  - Used in: Smart home devices, robotics
-8️⃣ Finance & FinTech 
+#### Finance & FinTech 
  - Used in: Stock market analysis, fraud detection, risk assessment
 
 ### Career Scope of Python in 2025
 Python’s demand is growing exponentially, and it continues to dominate multiple industries. By 2025, Python professionals will have excellent job prospects in fields like:
-1️⃣ Python Developer – Web & software development
-2️⃣ Data Scientist – Data analysis & predictive modeling
-3️⃣ Machine Learning Engineer – AI & ML model building
-4️⃣ Cybersecurity Expert – Ethical hacking & threat analysis
-5️⃣ Cloud Engineer – AWS, Azure, Google Cloud integrations
-6️⃣ DevOps Engineer – CI/CD automation & cloud deployment
-7️⃣ IoT Developer – Smart devices and embedded systems
+ - Python Developer – Web & software development
+ - Data Scientist – Data analysis & predictive modeling
+ - Machine Learning Engineer – AI & ML model building
+ - Cybersecurity Expert – Ethical hacking & threat analysis
+ - Cloud Engineer – AWS, Azure, Google Cloud integrations
+ - DevOps Engineer – CI/CD automation & cloud deployment
+ - IoT Developer – Smart devices and embedded systems
 
 
 ### Average Python Developer Salary for Freshers in India
-🔹 Python Developer	: INR 2,00,000 - 6,00,000
-🔹 Data Analyst	:	INR 4,00,000 - 8,00,000
-🔹 Machine Learning Engineer	:	INR 6,00,000 - 11,00,000
-🔹 Web Developer (Python)	:	INR 3,00,000 - 9,00,000
-🔹 Software Engineer (Python)	:	INR 3,00,000 - 9,00,000
-🔹 QA Engineer (Python)	:	INR 3,00,000 - 6,00,000
+ - Python Developer	: INR 2,00,000 - 6,00,000
+ - Data Analyst	:	INR 4,00,000 - 8,00,000
+ - Machine Learning Engineer	:	INR 6,00,000 - 11,00,000
+ - Web Developer (Python)	:	INR 3,00,000 - 9,00,000
+ - Software Engineer (Python)	:	INR 3,00,000 - 9,00,000
+ - QA Engineer (Python)	:	INR 3,00,000 - 6,00,000
 
 (Source: Glassdoor)
