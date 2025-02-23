@@ -1,6 +1,6 @@
 # **Chapter II: Python Basics**
 
-Welcome to **Chapter II: Python Basics** of the **Python - Zero to Hero** series. This chapter covers the fundamental concepts of Python, including syntax, variables, data types, and more.
+Welcome to **Chapter II: Python Basics** of the **Python - Zero to Hero** series. This chapter covers the fundamental concepts of Python, including syntax, variables, data types, and more. Note that I have used Jypiter Notebook to write and execute the programs.
 
 ## 📖 Topics Covered
 
@@ -23,11 +23,11 @@ By the end of this chapter, you will be able to:
 
 ```
 II_Python_Basics/
-│── 01_Basic_Syntax.py
-│── 02_Variables_DataTypes.py
-│── 03_Inputs_TypeCasting.py
-│── 04_Literals.py
-│── 05_Comments.py
+│── 01_Basic_Syntax.ipynb
+│── 02_Variables_DataTypes.ipynb
+│── 03_Inputs_TypeCasting.ipynb
+│── 04_Literals.ipynb
+│── 05_Comments.ipynb
 │── README.md  # This file
 ```
 
